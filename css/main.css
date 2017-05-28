@@ -1,0 +1,55 @@
+.box-certs .cert-item {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.box-certs .cert-item .cert-title {
+    font-size: 18px;
+}
+
+.box-certs .cert-item img {
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+
+.box-certs .certs-all .cert-item img {
+    max-width: 70%;
+}
+
+.box-certs .certs-main {
+    margin-bottom: 30px;
+}
+
+.img-wrapper {
+    display: block;
+    margin: auto;
+    height: 250px;
+    width: 250px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.img-wrapper .user-photo {
+    width: 100%;
+    height: auto;
+}
+
+.user-header {
+    padding: 25px 35px;
+}
+
+.box-certs.box-certs__point .cert-item {
+    opacity: 0.4;
+    position: relative;
+}
+
+.row-eq-height {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.add-cert-btn {
+    position: relative;
+    display: block;
+    margin: auto;
+}
